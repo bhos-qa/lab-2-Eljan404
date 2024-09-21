@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SumCalculatorTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-09-21T15:55:01" hostname="DESKTOP-KQBC8FP" time="0.032">
+  <properties/>
+  <testcase name="testSumWithNegativeNumbers()" classname="SumCalculatorTest" time="0.024"/>
+  <testcase name="testSumWithMultipleNumbers()" classname="SumCalculatorTest" time="0.001"/>
+  <testcase name="testSumWithSingleNumber()" classname="SumCalculatorTest" time="0.001"/>
+  <testcase name="testSumWithNoNumbers()" classname="SumCalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
